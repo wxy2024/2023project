@@ -1,0 +1,90 @@
+0	开了加速依然显示服务器连接失败
+1	正常使用中会闪退
+1	开机启动任务计划请求的操作需要提升
+0	windows睡眠 遊戲時數
+1	GITHUB加速会出现SSL连不上，GITHUB.com 443报警
+1	开启网络加速时，若未选择任何加速服务会陷入报错死循环
+0	微软商店版英文显示时没有加速功能
+0	为什么本地令牌没有搜索框了
+0	Windows版希望能加速epic商店
+0	在第二台电脑上使用令牌功能提示需密码验证，但点击后无任何反映
+0	加速steam商店后app的商店黑屏
+0	程序启动时报错
+1	使用工具加速后steam好友聊天无法发送图片
+1	使用一段时间之后打开卡死，无法使用
+1	mac m1 14.2.1  3.0.0-rc.3运行流量统计图动画奇葩走向
+0	启动速度慢
+0	discord加回去吧！！
+0	mac系统最小化后软件卡死
+0	能否增加对fandom维基的支持？
+0	关于账号登录的问题
+0	请输入标题
+0	Microsoft登录加速
+1	Ubuntu 18.04 运行启动报错
+1	加速steam失败，steam商店、社区和个人页面出现-100错误
+0	应用内登录时提供 查看/自动填充、确认 已绑定的本地令牌功能
+0	3.0.0-rc.3 BattleNet平台账号切换异常
+0	为什么要取消discord
+1	请输入标题
+1	浏览器的bing搜索，自动跳转到github页面。
+1	Windows Defender 误报致无法优化网络
+1	v3.0.0-cr for windows(x64) 成绩管理器打开没反应
+0	PAC HOSTS 系统代理 三种加速方式报错
+1	一只跳出客户端错误1006和服务端错误500
+1	steam挂卡 选择先并行挂时长在挂卡 之后开不了
+0	Bump ref/DirectoryPackages from `07bf9c2` to `0a1c04d`
+0	Bump ref/SteamClient from `2d79c7d` to `80991f6`
+1	Mac下不预先授权hosts访问权限，就会一直新开网页，耗尽内存
+0	steam加速有问题
+0	希望增加字体大小设置
+0	Bump ref/WTTS.MicroServices.ClientSDK from `be6ab5f` to `17f0887`
+0	Bump ref/Common from `e258b48` to `8704705`
+1	脚本不起作用
+1	steam库存游戏信息编辑时卡退，已修改的信息无法保存
+0	自启动添加管理员权限
+0	Bump actions/upload-artifact from 3 to 4
+0	用PAC加速模式无法启用脚本
+0	希望能支持绑定国外手机号
+1	速度还行，就是不能下载游戏
+0	挂卡令牌登陆问题
+0	网络请求处理的具体步骤是什么
+1	挂时长功能不起作用
+1	windows10，更新3.0.0-rc.3后无法开机自动启动
+0	Bump ref/WinAuth from `a204601` to `29806fd`
+1	加速功能一直弹窗host错误
+0	2.8.6版本使用正常而3.0rc3完全无法使用
+0	Bump actions/setup-dotnet from 3 to 4
+0	用了dns劫持模式后 无法上网只能打开微信
+1	确认交易功能停留在登录窗口
+1	开机时弹窗后闪退
+0	3.0版本增加对win10 磁贴右键更多功能的支持
+1	3.0版本管理成就点击后没反应
+0	Bump ref/SteamAchievementManager from `bfcf236` to `caf4e78`
+1	Github无法加载图片，无法下载Release中的文件
+1	勾选开启Ubsusoft加速后，Ubsusoft客户端内提示链接互联网失败
+1	steam加速后商店黑屏
+1	内存占用高
+0	历史最低价格查询脚本无法加载使用
+0	clipchamp能不能搞个加速节点
+0	库存游戏筛选游戏，无法正确筛除所有的工具。
+0	steam 加速错误
+0	linux下修改hosts时临时使用sudo包装
+0	挂卡应用闪退问题
+0	Bump nttld/setup-ndk from 1.2.0 to 1.4.2
+0	快速登录跳转页面显示 “错误! Failed to Unknown app version.”
+0	完全不能加速了
+1	网络加速页面存在内存泄露问题
+1	3.0-rc2半透明窗体后会出现windows默认标题栏
+1	客户端错误：目标客户端积极拒绝无法连接（127.0.0.1:26501）
+0	希望增加Bing国家版、Win Copilot边栏网络请求的代理
+0	希望能够加速openai，youtube，以及必应官网
+1	在DNS加速模式下无法正常加速
+1	历史价格一直显示 正在读取历史价格
+0	win11 on arm64无法加载GUI
+1	加速后商店无法显示图片
+0	Mac 14.1 m1 使用系统代理无法打开GitHub、stream等网站，报404错误
+0	Project Mobius
+1	动态头像框显示异常
+1	应用状态栏，会进行多重显示
+0	开机自启不显示切换账号且要手动授权管理员权限
+0	系统崩溃之后 重新做了系统 令牌文件没了 我已经恢复了之前的数据 令牌是否能重新恢复上
