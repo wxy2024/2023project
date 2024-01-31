@@ -48,8 +48,8 @@ with open("data/issues_all.csv", "w", newline="", encoding="utf-8") as csvfile:
                 comments,
             ]
         )
-# commits原始数据的转换 todo
 
+# commits原始数据的转换
 with open("data/commits.json", "r") as f:
     data = json.load(f)
 

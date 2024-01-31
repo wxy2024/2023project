@@ -61,10 +61,10 @@ def get_all_data(repo_owner, repo_name, data_type):
 def save(all_data, data_type):
     # 将所有信息保存到文件中
     if data_type == "issues":
-        with open("data/issues.json", "a", encoding="utf-8") as file:
+        with open("data/issues.json", "w", encoding="utf-8") as file:
             file.write(json.dumps(all_data, indent=4))
     elif data_type == "commits":
-        with open("data/commits.json", "a", encoding="utf-8") as file:
+        with open("data/commits.json", "w", encoding="utf-8") as file:
             file.write(json.dumps(all_data, indent=4))
     else:
         print("数据类型错误！")
