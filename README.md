@@ -1,6 +1,6 @@
 # github pandas仓库issues和commits情况分析
 
-数据源 [github](https://github.com/)
+数据源 [github/pandas-dev/pandas](https://github.com/pandas-dev/pandas)
 
 ## 项目流程
 ### 题目理解
@@ -15,47 +15,47 @@
 
 代码：
 
-| file | content |
-| ---- | ------- |
-| spider.py  | github api 提取数据 |
-| clean_tocsv.py  | 提取有效信息并转为csv |
+| file           | content               |
+| -------------- | --------------------- |
+| spider.py      | github api 提取数据   |
+| clean_tocsv.py | 提取有效信息并转为csv |
 
 数据：
 
-| file         | content        |
-| ------------ | -------------- |
-| issues.json  | issues原始数据 |
-| commits.json  | commits原始数据 |
-| issues_all.csv | issues转换后的数据 |
-| commits_all.csv | commits转换后的数据   |
+| file            | content             |
+| --------------- | ------------------- |
+| issues.json     | issues原始数据      |
+| commits.json    | commits原始数据     |
+| issues_all.csv  | issues转换后的数据  |
+| commits_all.csv | commits转换后的数据 |
 
 
 ### issues情况分析
 操作：issues数量统计与趋势分析、issues类型分析、issues修复时间分析 <br>
 代码：
 
-| file | content |
-| ---- | ------- |
+| file             | content                    |
+| ---------------- | -------------------------- |
 | issues分析.ipynb | 挖掘分析issues规律并可视化 |
 
 图片：
 
-| file | content |
-| ---- | ------- |
-| all_issues_num -- date.png | issues创建总数量与关闭总数量随日期变化规律 |
-| created&closed_issues_num -- date(month).png | 每月issues创建数量与关闭数量变化规律 |
-| created&open_issues_num,percentage -- date(month).png | 每月仍未解决的issues占总数量比例变化规律 |
-| time to resolve issues -- date.png | issues解决时间随日期变化规律 |
-| issues type.png | issues类型分析 |
-| update time.png | issues更新时间分析 |
+| file                                                  | content                                    |
+| ----------------------------------------------------- | ------------------------------------------ |
+| all_issues_num -- date.png                            | issues创建总数量与关闭总数量随日期变化规律 |
+| created&closed_issues_num -- date(month).png          | 每月issues创建数量与关闭数量变化规律       |
+| created&open_issues_num,percentage -- date(month).png | 每月仍未解决的issues占总数量比例变化规律   |
+| time to resolve issues -- date.png                    | issues解决时间随日期变化规律               |
+| issues type.png                                       | issues类型分析                             |
+| update time.png                                       | issues更新时间分析                         |
 
 
 ### commits情况分析
 操作： commits数量统计与趋势分析、commits类型分析、commits修复时间分析<br>
 代码：
 
-| file | content |
-| ---- | ------- |
+| file              | content                     |
+| ----------------- | --------------------------- |
 | commits分析.ipynb | 挖掘分析commits规律并可视化 |
 
 图片：
